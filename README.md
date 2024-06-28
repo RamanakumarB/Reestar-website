@@ -17,4 +17,4 @@ This project is a simple Reestar website created using HTML and basic CSS. It sh
 ## Getting Started
 
 To view the website:
-Feel free to explore the website [[here](Feel free to explore the website [[here](https://ramanakumarb.github.io/portfolio---simple-website/index.html)] and reach out to me for any feedback or suggestions.)] and reach out to me for any feedback or suggestions.
+Feel free to explore the website [[here](https://ramanakumarb.github.io/Reestar-website/)] and reach out to me for any feedback or suggestions.
