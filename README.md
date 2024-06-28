@@ -6,7 +6,7 @@ This project is a simple Reestar website created using HTML and basic CSS. It sh
 
 - **Menu Display:** Browse through our delicious offerings with ease.
 - **Responsive Design:** Ensures seamless viewing experience across devices.
-- **Contact Information:** Easy access to location and contact details.
+- **Contact Information:** Easy to access .
 
 ## Technologies Used
 
