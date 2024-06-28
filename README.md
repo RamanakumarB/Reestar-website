@@ -1,5 +1,4 @@
 # Reestar-website
-# Restaurant Website
 
 This project is a simple Reestar website created using HTML and basic CSS. It showcases a clean and contact information.
 
@@ -13,11 +12,6 @@ This project is a simple Reestar website created using HTML and basic CSS. It sh
 
 - HTML
 - CSS
-
-## Screenshots
-
-
-![Screenshot 2](![Screenshot (186)](https://github.com/RamanakumarB/Reestar-website/assets/157892424/96f678a9-aea8-4e35-aece-e56beb730622)
 
 
 ## Getting Started
