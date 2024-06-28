@@ -16,8 +16,9 @@ This project is a simple Reestar website created using HTML and basic CSS. It sh
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1]()
+)
+![Screenshot 2](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (186).png)
 
 ## Getting Started
 
